@@ -1,0 +1,29 @@
+div.err{
+	border: 1px solid black;
+	padding: 0px 5px 0px 5px;
+	background-color: rgb(240,214,214);
+}
+
+.italic{
+	font-style: italic;
+}
+
+#k5_create_new_site{
+	/*position: absolute;
+	top: 200px;
+	z-index: 999;
+	right: 50px;*/
+	*display: none;
+	padding: 10px 25px 10px 25px;
+	width: 60%;
+    background-color:#ffeded;
+}
+
+table.widefat thead, table.widefat tfoot{
+    background-color: #ededed;
+}
+
+input#site_url{
+    border-color: #87AED1;
+}
+
